@@ -13,7 +13,7 @@ Step by step guide to becoming a modern Java developer
 - [X] Tracking Our first Git Project | Git Tutorials #4
 - [X] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
 - [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [X] .gitignore: Ignoring Files in Git | Git Tutorials #7
 - [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
 - [ ] Git: Skipping The Staging Area | Git Tutorials #9
 - [ ] Moving and Renaming Files In Git | Git Tutorials #10
@@ -29,12 +29,12 @@ Step by step guide to becoming a modern Java developer
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Getting Started
- - [ ] Programming Tools Setup
- - [ ] First Steps
+ - [X] Getting Started
+ - [X] Programming Tools Setup
+ - [X] First Steps
  - [ ] IntelliJ Basics
  - [ ] Expressions, Statements & More
- - [ ] Control Flow
+ - [X] Control Flow
  - [ ] OOP Part 1 - Inheritance
  - [ ] OOP Part 2 - Polymorphism
  - [ ] Arrays
@@ -42,9 +42,9 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 00
- - [ ] Day 01
- - [ ] Day 02
+ - [X] Day 00
+ - [X] Day 01
+ - [X] Day 02
  - [ ] Day 03
  - [ ] Day 04
  - [ ] Day 05
