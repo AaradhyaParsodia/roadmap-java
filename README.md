@@ -16,7 +16,7 @@ Step by step guide to becoming a modern Java developer
 - [X] .gitignore: Ignoring Files in Git | Git Tutorials #7
 - [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
 - [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
+- [X] Moving and Renaming Files In Git | Git Tutorials #10
 - [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
 - [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
 - [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
@@ -32,8 +32,8 @@ Step by step guide to becoming a modern Java developer
  - [X] Getting Started
  - [X] Programming Tools Setup
  - [X] First Steps
- - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
+ - [X] IntelliJ Basics
+ - [X] Expressions, Statements & More
  - [X] Control Flow
  - [ ] OOP Part 1 - Inheritance
  - [ ] OOP Part 2 - Polymorphism
@@ -45,7 +45,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 00
  - [X] Day 01
  - [X] Day 02
- - [ ] Day 03
+ - [X] Day 03
  - [ ] Day 04
  - [ ] Day 05
  - [ ] Day 06
