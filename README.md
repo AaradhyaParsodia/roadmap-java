@@ -9,17 +9,17 @@ Step by step guide to becoming a modern Java developer
 
 - [X] What is Git/GitHub & Why do we need it? | Git Tutorials #1
 - [X] Installing Git + Initial Setup? | Git Tutorials #2
-- [ ] Git: Three Stage Architecture | Git Tutorials #3
+- [X] Git: Three Stage Architecture | Git Tutorials #3
 - [X] Tracking Our first Git Project | Git Tutorials #4
 - [X] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
+- [X] Git: File Status Lifecycle | Git Tutorials #6
 - [X] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [X] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
 - [ ] Git: Skipping The Staging Area | Git Tutorials #9
 - [X] Moving and Renaming Files In Git | Git Tutorials #10
 - [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
 - [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [X] GitHub: Working with Remote Repositories | Git Tutorials #13
 - [ ] Setting Alias In Git | Git Tutorials #14
 - [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
 - [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
@@ -35,7 +35,7 @@ Step by step guide to becoming a modern Java developer
  - [X] IntelliJ Basics
  - [X] Expressions, Statements & More
  - [X] Control Flow
- - [ ] OOP Part 1 - Inheritance
+ - [X] OOP Part 1 - Inheritance
  - [ ] OOP Part 2 - Polymorphism
  - [ ] Arrays
  - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
@@ -46,7 +46,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 01
  - [X] Day 02
  - [X] Day 03
- - [ ] Day 04
+ - [X] Day 04
  - [ ] Day 05
  - [ ] Day 06
  - [ ] Day 07
