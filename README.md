@@ -20,12 +20,12 @@ Step by step guide to becoming a modern Java developer
 - [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
 - [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
 - [X] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [X] Setting Alias In Git | Git Tutorials #14
+- [X] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [X] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [X] Resolving Merge Conflicts (With Example) | Git Tutorials #17
 - [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [X] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
@@ -37,8 +37,8 @@ Step by step guide to becoming a modern Java developer
  - [X] Control Flow
  - [X] OOP Part 1 - Inheritance
  - [X] OOP Part 2 - Polymorphism
- - [ ] Arrays
- - [ ] List, ArrayList, LinkedList, Iterator, Autoboxing
+ - [X] Arrays
+ - [X] List, ArrayList, LinkedList, Iterator, Autoboxing
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
@@ -48,7 +48,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 03
  - [X] Day 04
  - [X] Day 05
- - [ ] Day 06
+ - [X] Day 06
  - [ ] Day 07
  - [ ] Day 08
  - [ ] Day 09
