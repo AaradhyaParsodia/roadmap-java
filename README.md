@@ -15,16 +15,16 @@ Step by step guide to becoming a modern Java developer
 - [X] Git: File Status Lifecycle | Git Tutorials #6
 - [X] .gitignore: Ignoring Files in Git | Git Tutorials #7
 - [X] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
+- [X] Git: Skipping The Staging Area | Git Tutorials #9
 - [X] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [X] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [X] Unstaging & Unmodifying Files In Git | Git Tutorials #12
 - [X] GitHub: Working with Remote Repositories | Git Tutorials #13
 - [X] Setting Alias In Git | Git Tutorials #14
 - [X] Git: Creating & Switching Branches In Git | Git Tutorials #15
 - [X] Branching & Merging a Production Grade Project | Git Tutorials #16
 - [X] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
+- [X] Git Branching Workflow in Production | Git Tutorials #18
 - [X] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
@@ -49,15 +49,15 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 04
  - [X] Day 05
  - [X] Day 06
- - [ ] Day 07
- - [ ] Day 08
- - [ ] Day 09
+ - [X] Day 07
+ - [X] Day 08
+ - [X] Day 09
 
 ## Basic Stage 2
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
- - [ ] Abstraction in Java
+ - [X] Abstraction in Java
  - [ ] Generics
  - [ ] Nested Classes and Types
  - [ ] Lambda Expressions, Functional Interfaces, and Method References
