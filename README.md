@@ -58,7 +58,7 @@ Step by step guide to becoming a modern Java developer
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
  - [X] Abstraction in Java
- - [ ] Generics
+ - [X] Generics
  - [ ] Nested Classes and Types
  - [ ] Lambda Expressions, Functional Interfaces, and Method References
  - [ ] Java Collections
@@ -68,7 +68,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 10
+ - [X] Day 10
  - [ ] Day 11
  - [ ] Day 12
  - [ ] Day 13
