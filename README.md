@@ -63,7 +63,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Lambda Expressions, Functional Interfaces, and Method References
  - [X] Java Collections
  - [X] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
- - [ ] Streams
+ - [X] Streams
  - [ ] Back to a Few Nuts and Bolts
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
@@ -92,7 +92,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 20
+ - [X] Day 20
  - [ ] Day 21
  - [ ] Day 22
  - [ ] Day 23
