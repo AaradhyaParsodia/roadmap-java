@@ -64,7 +64,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Java Collections
  - [X] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [X] Streams
- - [ ] Back to a Few Nuts and Bolts
+ - [X] Back to a Few Nuts and Bolts
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
@@ -93,9 +93,9 @@ Step by step guide to becoming a modern Java developer
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
  - [X] Day 20
- - [ ] Day 21
- - [ ] Day 22
- - [ ] Day 23
+ - [X] Day 21
+ - [X] Day 22
+ - [X] Day 23
  - [ ] Day 24
  - [ ] Day 25
  - [ ] Day 26
