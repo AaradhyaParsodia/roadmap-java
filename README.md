@@ -98,7 +98,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 23
  - [X] Day 24
  - [X] Day 25
- - [ ] Day 26
+ - [X] Day 26
  - [ ] Day 27
  - [ ] Day 28
  - [ ] Day 29
@@ -117,12 +117,12 @@ Step by step guide to becoming a modern Java developer
  - [X]  08 - Inner Beans, Aliases and idref
  - [X]  09 - Initializing Collections
  - [X]  10 - Bean Autowiring
- - [ ]  11 - Understanding Bean Scopes
- - [ ]  12 - Using ApplicationContextAware
- - [ ]  13 - Bean Definition Inheritance
- - [ ]  14 - Lifecycle Callbacks
- - [ ]  15 - Writing a BeanPostProcessor
- - [ ]  16 - Writing a BeanFactoryPostProcessor
+ - [X]  11 - Understanding Bean Scopes
+ - [X]  12 - Using ApplicationContextAware
+ - [X]  13 - Bean Definition Inheritance
+ - [X]  14 - Lifecycle Callbacks
+ - [X]  15 - Writing a BeanPostProcessor
+ - [X]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
  - [ ]  18 - Introduction to Annotations and the Required Annotation
  - [ ]  19 - The Autowired Annotation
