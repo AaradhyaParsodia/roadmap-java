@@ -136,10 +136,10 @@ Step by step guide to becoming a modern Java developer
 
  - [X] 01 - Introduction to Spring Data and Setting Up
  - [X] 02 - Using JDBC without Spring
- - [ ] 03 - Adding Spring and DataSource Configuration
- - [ ] 04 - Using JdbcTemplate
- - [ ] 05 - Returning Other Datatypes from JdbcTemplate
- - [ ] 06 - Implementing RowMapper
+ - [X] 03 - Adding Spring and DataSource Configuration
+ - [X] 04 - Using JdbcTemplate
+ - [X] 05 - Returning Other Datatypes from JdbcTemplate
+ - [X] 06 - Implementing RowMapper
  - [ ] 07 - Performing Write Operations with JdbcTemplate
  - [ ] 08 - Named Parameter JDBC Template
  - [ ] 09 - DAO Support Classes
