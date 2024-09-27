@@ -142,15 +142,15 @@ Step by step guide to becoming a modern Java developer
  - [X] 06 - Implementing RowMapper
  - [X] 07 - Performing Write Operations with JdbcTemplate
  - [X] 08 - Named Parameter JDBC Template
- - [ ] 09 - DAO Support Classes
- - [ ] 10 - Using Hibernate with Spring
+ - [X] 09 - DAO Support Classes
+ - [X] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
    
 ### [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 
- - [ ] 01 - Introduction
- - [ ] 02 - About The Course
+ - [X] 01 - Introduction
+ - [X] 02 - About The Course
  - [ ] 03 - What is Spring Boot
  - [ ] 04 - Spring and some of its problems
  - [ ] 05 - What Spring Boot gives us
