@@ -151,10 +151,10 @@ Step by step guide to becoming a modern Java developer
 
  - [X] 01 - Introduction
  - [X] 02 - About The Course
- - [ ] 03 - What is Spring Boot
- - [ ] 04 - Spring and some of its problems
- - [ ] 05 - What Spring Boot gives us
- - [ ] 06 - Setting Up Development Environment
+ - [X] 03 - What is Spring Boot
+ - [X] 04 - Spring and some of its problems
+ - [X] 05 - What Spring Boot gives us
+ - [X] 06 - Setting Up Development Environment
  - [ ] 07 - Maven
  - [ ] 08 - Creating a Spring Boot project
  - [ ] 09 - Starting a Spring Boot application
