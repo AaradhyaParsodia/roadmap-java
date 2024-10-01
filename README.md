@@ -155,30 +155,30 @@ Step by step guide to becoming a modern Java developer
  - [X] 04 - Spring and some of its problems
  - [X] 05 - What Spring Boot gives us
  - [X] 06 - Setting Up Development Environment
- - [ ] 07 - Maven
- - [ ] 08 - Creating a Spring Boot project
- - [ ] 09 - Starting a Spring Boot application
- - [ ] 10 - Spring Boot startup steps
- - [ ] 11 - Adding a REST Controller
- - [ ] 12 - Returning Objects From Controller
- - [ ] 13 - What's Happening Here: Bill Of Materials
- - [ ] 14 - What's Happening Here: Embedded Servlet Container
- - [ ] 15 - How Spring MVC Works
- - [ ] 16 - The REST API we'll build
- - [ ] 17 - Creating a business service
- - [ ] 18 - Getting a single resource
- - [ ] 19 - Creating a new resource using POST
- - [ ] 20 - Implementing Update and Delete
- - [ ] 21 - Unit Overview
- - [ ] 22 - Using Spring Initializr
- - [ ] 23 - Using Spring Boot CLI
- - [ ] 24 - Using the STS IDE
- - [ ] 25 - Using application properties
- - [ ] 26 - What is JPA
- - [ ] 27 - Adding Spring Data JPA
- - [ ] 28 - Creating a Spring Data JPA Repository
- - [ ] 29 - Making Crud Operations with Repository
- - [ ] 30 - Adding Course APIs
+ - [X] 07 - Maven
+ - [X] 08 - Creating a Spring Boot project
+ - [X] 09 - Starting a Spring Boot application
+ - [X] 10 - Spring Boot startup steps
+ - [X] 11 - Adding a REST Controller
+ - [X] 12 - Returning Objects From Controller
+ - [X] 13 - What's Happening Here: Bill Of Materials
+ - [X] 14 - What's Happening Here: Embedded Servlet Container
+ - [X] 15 - How Spring MVC Works
+ - [X] 16 - The REST API we'll build
+ - [X] 17 - Creating a business service
+ - [X] 18 - Getting a single resource
+ - [X] 19 - Creating a new resource using POST
+ - [X] 20 - Implementing Update and Delete
+ - [X] 21 - Unit Overview
+ - [X] 22 - Using Spring Initializr
+ - [X] 23 - Using Spring Boot CLI
+ - [X] 24 - Using the STS IDE
+ - [X] 25 - Using application properties
+ - [X] 26 - What is JPA
+ - [X] 27 - Adding Spring Data JPA
+ - [X] 28 - Creating a Spring Data JPA Repository
+ - [X] 29 - Making Crud Operations with Repository
+ - [X] 30 - Adding Course APIs
  - [ ] 31 - Adding Entity Relationship and Extending Repository
  - [ ] 32 - Packaging and running a Spring Boot app
  - [ ] 33 - Spring Boot Actuator
