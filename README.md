@@ -179,10 +179,10 @@ Step by step guide to becoming a modern Java developer
  - [X] 28 - Creating a Spring Data JPA Repository
  - [X] 29 - Making Crud Operations with Repository
  - [X] 30 - Adding Course APIs
- - [ ] 31 - Adding Entity Relationship and Extending Repository
- - [ ] 32 - Packaging and running a Spring Boot app
- - [ ] 33 - Spring Boot Actuator
- - [ ] 34 - Wrap Up
+ - [X] 31 - Adding Entity Relationship and Extending Repository
+ - [X] 32 - Packaging and running a Spring Boot app
+ - [X] 33 - Spring Boot Actuator
+ - [X] 34 - Wrap Up
 
 ### [Junit 5 Basics](https://www.youtube.com/watch?v=2E3WqYupx7c&list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o&ab_channel=JavaBrains)
 
